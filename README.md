@@ -1,8 +1,6 @@
 # React + Vite
 
-This TodoList uses 
-  a. Context API
-  b. Local Storage
+This TodoList uses Context API, Local Storage
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
